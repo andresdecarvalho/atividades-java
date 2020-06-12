@@ -2,5 +2,5 @@
 
 Atividades com fins educativos !
 
-1- Jokenpo
-2- Calculadora IMC
+<p>1- Jokenpo</p>
+<p>2- Calculadora IMC</p>
